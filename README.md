@@ -7,4 +7,4 @@ How many do you need to create the largest heading? 1
 How many do you need to create the smallest heading? 6
 When making text bold or italicized for emphasis, it is best practice to use which symbol? _bold_ **italicized** bold would be * and italicized would be _
 How do you create a link with Markdown? You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). You can also use the keyboard shortcut Command+K to create a link. When you have text selected, you can paste a URL from your clipboard to automatically create a link from the selection. You can also create a Markdown hyperlink by highlighting the text and using the keyboard shortcut Command+V. If you'd like to replace the text with the link, use the keyboard shortcut Command+Shift+V. This site was built using [GitHub Pages](https://pages.github.com/). 
-What are the three symbols you can use to create an unordered (bulleted) list with Markdown
+What are the three symbols you can use to create an unordered (bulleted) list with Markdown -,*,+
