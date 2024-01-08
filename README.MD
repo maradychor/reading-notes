@@ -1,5 +1,5 @@
-Explain “growth mindset” in your own words - Having a **growth** mindset is having the ability to keep going and trying harder every time you fail or if you just have the thoughts that you are failing. 
-Having a growth mindset helps you strengthen your mental state to accept __criticism__ and maybe try to see where the feedback is coming from
+Explain “growth mindset” in your own words - Having a **growth** mindset is having the ability to keep going and trying __harder__ every time you fail or if you just have the thoughts that you are failing. 
+Having a growth mindset helps you strengthen your mental state to accept criticism and maybe try to see where the feedback is coming from
 Include 3 reminders to yourself of how to keep yourself in a growth mindset 3 reminders to myself to keep a growth mindset is 1.) reminding myself that there 
 are pepole that know more and can teach me how to be better every single day 2.) we learn more from people and what we see, sometimes 
 we want to think that people give feedback to undermine our work ethic but in reality sometimes we just need to listen and take notes to see if what 
