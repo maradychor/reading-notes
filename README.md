@@ -15,3 +15,4 @@ What are the three symbols you can use to create an unordered (bulleted) list wi
 A growth mindset is being open minded to explore changes to help you become a better employee, person, etc. A growth mindset takes the criticism 
 received to not feel discouraged but to be motivated and inspired to be more successful. 
 3 reminders to myself to keep a growth mindset is, 1.) there is always someone smarter than you, who knows more than you so learn from them and what helps them might help you as well. 2.) if you think you can't do something because you dont know how, remember everyone starts somewhere and in the beginning everyone doesn't know until they learn and try. 3.) being jealous of others success only drowns your spirit in sorrow. 
+**bold**
