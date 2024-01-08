@@ -5,3 +5,4 @@ are pepole that know more and can teach me how to be better every single day 2.)
 we want to think that people give feedback to undermine our work ethic but in reality sometimes we just need to listen and take notes to see if what 
 advice is given to me works for me. 3.) trying again and again will only make me better because **practice _creates_ perfection**  
 
+My mane is Marady (mar-ugh-dee) https://maradychor.github.io/reading-notes/
