@@ -1,24 +1,4 @@
-# Homepage
-
-## Intro
-Hello, I am Marady (she/hers) 
-I'm a Seattle Native, and couldn't imagine being anywhere else! I am driven to persue a tech career here given all the opportunities and the many headquarters that are based here in Seattle! I am a new mother and hope to find a career to be an amazing role model for my children. 
-## Table Of contents 
-### README.md
-#### read03.md
-##### reading01.md
-
-
-
-
-
-
-
-
-
-
-
-# reading-notes
+ reading-notes
 This is my reading **notes** 
 What is Markdown? It is a lighweight markup language for generating HTML files. In other words, it is a languaged used to simplify HTML. For examplem instead of using a ton of symbols to generate Large words or headings you can use 1 or 2 symbols. 
 Why Markdown? The language is more clean and gets straight to the point. 
