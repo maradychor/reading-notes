@@ -1,1 +1,1 @@
-
+Today is January 9th, our lecture today focused on Git and Github. We learned that Git is vision control and Github is your code in the clouds. Github is a way to share your code with your team. Git saves history, unlike saving a document in like word, and potentially losing the file. We also learned how to trasnfer data from the terminal back to github or editing information we want in git on VS. We learned that repositories are a folders in the cloud, it is a collection of files that git pays attention to. commands 
