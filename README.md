@@ -20,7 +20,7 @@ I'm a Seattle Native, and couldn't imagine being anywhere else! I am driven to p
 
 # reading-notes
 This is my reading **notes** 
-What is Markdown? It is a lighweight markup language for generating HTML files. In other words, it is a languaged used to simplify HTML. For examplem instead of using a ton of symbols to generate Large words or headings you can use 1 or 2 symbols. 
+Markdown is a lighweight markup language for generating HTML files. In other words, it is a language used to simplify HTML. For examplem instead of using a ton of symbols to generate large words or headings you can use just a handful of symbols. 
 Why Markdown? The language is more clean and gets straight to the point. 
 What symbol will create a heading in Markdown? #
 How many do you need to create the largest heading? 1
